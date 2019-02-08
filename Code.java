@@ -5,6 +5,10 @@ public class Code {
     successfull!
     */
     System.out.println("Hello, Welcome my first Commit!");
+    /*
+    this is second block comment
+    for second fix after numOfLine
+    */
     System.out.println("I changed this line!);
     // It is the test comment
  }
