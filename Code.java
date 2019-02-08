@@ -6,6 +6,5 @@ public class Code {
     */
     System.out.println("Hello, Welcome my first Commit!");
     // It is the test comment
-  }
  }
 }
