@@ -5,7 +5,7 @@ public class Code {
     successfull!
     */
     System.out.println("Hello, Welcome my first Commit!");
-    System.out.println("I added one line, but this line will be changed");
+    System.out.println("I changed this line!);
     // It is the test comment
  }
 }
